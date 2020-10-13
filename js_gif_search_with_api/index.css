@@ -1,0 +1,39 @@
+body { 
+    margin: 1em;
+    background-color:#667ef440;
+    text-align: center;
+}
+
+input {
+    margin: 0 auto;
+}
+
+h1 {
+    padding: 1em 0;
+}
+
+ #outputPics {
+     width:1000px;
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0 auto;
+}
+
+button {
+    padding:1em;
+    margin-bottom: 3em;
+
+}
+
+input {
+    display: block;
+    padding: .7em;
+    width: 15rem;
+    margin-bottom: 1em;
+}
+
+#outputPic {
+    width: auto;
+} 
+
+
